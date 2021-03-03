@@ -1,43 +1,44 @@
 # modulo-JadLog-para-opencart
-Integraçao web service jadlog
-Informações:
+Integration web service jadlog
+Information:
 ************
 
-- Módulo para integração com a transportadora jadLog.
-- O módulo tem suporte a multiplas formas de transporte.
-- O módulo permite o acréscimo de um valor fixo ao valor do frete calculado pela transportadora.
-- Para utilizá-lo é necessário ter contrato com a jadLog.
-- O módulo não altera nenhum arquivo padrão do OpenCart.
-- Informações: www.jadlog.com.br
+- Module for integration with the jadLog carrier.
+- The module supports multiple forms of transport.
+- The module allows the addition of a fixed amount to the freight value calculated by the carrier.
+- To use it, you must have a contract with jadLog.
+- The module does not change any standard OpenCart files.
+- Information: www.jadlog.com.br
 
-Versão Atual:
+Current version:
 *************
 
 - 1.0
 
-Atualizações:
+Updates:
 *************
 
 - 1.0:
   
 
-Compatibilidade:
+Compatibility:
 ****************
 
-- OpenCart 1.5.1.3.x, 1.5.2.x e 1.5.3.x
+- OpenCart 1.5.1.3.x, 1.5.2.x and 1.5.3.x
 
-Instruções:
+Instructions:
 ***********
 
-- Copie as pastas e arquivos para o raiz da instalação do OpenCart.
+- Copy the folders and files to the root of the OpenCart installation.
 
-- Acesse a administração da loja para habilitá-lo em Formas de Pagamento.
+- Access the store administration to enable it in Payment Methods.
 
-- Preencha no módulo as informações conforme os dados do seu contrato.
+- Fill in the information in the module according to the data of your contract.
 
-- Não habilite serviços que você não esteja habilitado a utilizar pelo seu contrato. 
+- Do not enable services that you are not entitled to use under your contract.
 
-Atenção:
+Heads up:
 ********
 
-- Este módulo é oferecido sem qualquer garantia ou suporte.
+- This module is offered without any warranty or support.
+
